@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spot
+comment0.text=\r\n\ A\ spot\ with\ a\ circle.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 1.0\r\n
+comment1.params=x\ y\ radius\ color
+comment1.target=Spot(int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Spot.\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ the\ x\ coordinate\ of\ the\ center\ of\ the\ circle\r\n\ @param\ y\ \ \ \ \ \ \ the\ y\ coordinate\ of\ the\ center\ of\ the\ circle\r\n\ @param\ radius\ \ the\ radius\ of\ the\ circle\r\n\ @param\ color\ \ \ the\ color\ of\ the\ circle\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ this\ spot\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ this\ spot\ invisible.\ If\ it\ was\ already\ invisible,\ do\ nothing.\r\n
+comment4.params=distance
+comment4.target=void\ moveHorizontal(int)
+comment4.text=\r\n\ Move\ the\ spot\ horizontally.\r\n\ \r\n\ @param\ distance\ the\ distance\ to\ move\ the\ spot\ horizontally\r\n
+comment5.params=distance
+comment5.target=void\ moveVertical(int)
+comment5.text=\r\n\ Move\ the\ spot\ vertically.\r\n\ \r\n\ @param\ distance\ the\ distance\ to\ move\ the\ spot\ vertically\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bridge
+comment0.text=\r\n\ A\ strand\ that\ contains\ a\ line\ and\ can\ be\ manipulated.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 1.0\r\n
+comment1.params=xStart\ yStart\ xEnd\ yEnd\ color
+comment1.target=Bridge(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Strand.\r\n\ \r\n\ @param\ xStart\ the\ x\ coordinate\ of\ the\ starting\ point\ of\ the\ line\r\n\ @param\ yStart\ the\ y\ coordinate\ of\ the\ starting\ point\ of\ the\ line\r\n\ @param\ xEnd\ \ \ the\ x\ coordinate\ of\ the\ ending\ point\ of\ the\ line\r\n\ @param\ yEnd\ \ \ the\ y\ coordinate\ of\ the\ ending\ point\ of\ the\ line\r\n\ @param\ color\ \ the\ color\ of\ the\ line\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Make\ this\ strand\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Make\ this\ strand\ invisible.\ If\ it\ was\ already\ invisible,\ do\ nothing.\r\n
+numComments=4

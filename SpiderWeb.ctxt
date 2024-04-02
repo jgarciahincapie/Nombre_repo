@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SpiderWeb
+comment0.text=\r\n\ A\ spider\ web\ that\ contains\ multiple\ strands\ forming\ a\ web.\r\n\ \r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 1.0\r\n
+comment1.params=numStrands\ radio
+comment1.target=SpiderWeb(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpiderWeb.\r\n
+comment2.params=
+comment2.target=void\ buildSpiderWeb()
+comment2.text=\r\n\ Build\ a\ spider\ web\ with\ lines\ originating\ from\ a\ center\ point.\r\n
+comment3.params=firstStrand\ color\ height
+comment3.target=void\ addBridge(int,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ makeVisible()
+comment4.text=\r\n\ Make\ this\ spider\ web\ visible.\ If\ it\ was\ already\ visible,\ do\ nothing.\r\n
+comment5.params=
+comment5.target=void\ makeInvisible()
+comment5.text=\r\n\ Make\ this\ spider\ web\ invisible.\ If\ it\ was\ already\ invisible,\ do\ nothing.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
